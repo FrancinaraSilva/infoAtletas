@@ -6,4 +6,5 @@ Receber Informações de um atleta e calcular parâmetros.
 °peso
 °altura
 °notas
+👩‍💻 Tecnologia utilizada: JavaScript Desenvolvido por Francinara Silva como parte de um desafio acadêmico
 
