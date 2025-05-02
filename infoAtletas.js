@@ -4,7 +4,7 @@ class Atletas {
         this.idade = idade
         this.peso = peso   
         this.altura = altura   
-        this.nota = notas
+        this.notas = notas
     }
     //calcular categoria
     calcularcategoria() {
